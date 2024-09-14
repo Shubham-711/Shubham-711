@@ -8,7 +8,7 @@
 👨‍💻 **Skills & Technologies:**
 - Machine Learning: Python, TensorFlow, PyTorch, Scikit-learn
 - Data Science: Pandas, NumPy, Matplotlib, Seaborn
-- Tools: Jupyter Notebooks, SQL, Docker, Git
+- Tools: Jupyter Notebooks, SQL, Git
 - Other: Data Visualization, Predictive Modeling, Neural Networks
 
 📚 Constantly learning and working on exciting projects in ML and data science. Open to collaboration and knowledge sharing.

@@ -1,24 +1,19 @@
+### Hey there! 👋
 
-👋 Hi, I'm Shubham Kumavat 
+I'm **Shubham**, an AI & Machine Learning Engineer based in India.
 
-💻 ML Developer | Data Scientist | Tech Enthusiast
+I design and build intelligent systems that solve real-world problems.
+From training complex deep learning models to deploying full-stack SaaS applications, I love turning ideas into reality.
 
-🚀 Passionate about leveraging machine learning and data science to create impactful solutions. I enjoy working on data-driven projects and exploring the latest advancements in AI, data analytics, and automation.
+🚀 **I am currently open to new opportunities in AI, Machine Learning, and Data Science.**
 
-👨‍💻 **Skills & Technologies:**
-- Machine Learning: Python, TensorFlow, PyTorch, Scikit-learn
-- Data Science: Pandas, NumPy, Matplotlib, Seaborn
-- Tools: Jupyter Notebooks, SQL, Git
-- Other: Data Visualization, Predictive Modeling, Neural Networks
+---
 
-📚 Constantly learning and working on exciting projects in ML and data science. Open to collaboration and knowledge sharing.
+### 🛠 Tech Stack
+My main tech stack revolves around **Python, TensorFlow, and Flask** for backend and AI logic.
+I also build scalable full-stack applications using **React, Docker, and SQL**.
 
+---
 
-
-
-
-
-<!---
-Shubham-711/Shubham-711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡ Hobbies
+Coding, exploring new tools, gym, reading.
